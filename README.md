@@ -1,4 +1,4 @@
-# vue_todo
+## This app created using Vue.js. JSONPlaceholder is used as a backend api.
 
 ## Project setup
 ```
